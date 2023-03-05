@@ -71,7 +71,7 @@ def main():
         listen="0.0.0.0",
         port=int(PORT),
         url_path=TOKEN,
-        webhook_url='https://sheltered-badlands-52585.herokuapp.com/' + TOKEN
+        webhook_url='https://web-scrapping-bot.herokuapp.com/' + TOKEN
     )
 
     # Run the bot until you press Ctrl-C or the process receives SIGINT,
